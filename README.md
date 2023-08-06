@@ -1,6 +1,6 @@
 # C CPP DSA
 
-This repository is dedicated to storing daily C, C++, and DSA (Data Structures and Algorithms) codes Guided by Head of Department Dr. Balaji Shetty Sir
+This repository is dedicated to storing daily C, C++, and DSA (Data Structures and Algorithms)
 
 ## Structure
 The repository is organized into the following sections:
